@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="217990" started-at="2021-12-28T22:19:39 IST" finished-at="2021-12-28T22:23:17 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="217990" started-at="2021-12-28T22:19:39 IST" finished-at="2021-12-28T22:23:17 IST">
+      <class name="com.testng_features.Report">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.testng_features.Report@458c1321]" name="launch" duration-ms="16440" started-at="2021-12-28T22:19:39 IST" finished-at="2021-12-28T22:19:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="sign_in()[pri:1, instance:com.testng_features.Report@458c1321]" name="sign_in" duration-ms="87933" started-at="2021-12-28T22:19:55 IST" finished-at="2021-12-28T22:21:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign_in -->
+        <test-method status="PASS" signature="T_shirts()[pri:2, instance:com.testng_features.Report@458c1321]" name="T_shirts" duration-ms="44402" started-at="2021-12-28T22:21:23 IST" finished-at="2021-12-28T22:22:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T_shirts -->
+        <test-method status="PASS" signature="womens_dress()[pri:3, instance:com.testng_features.Report@458c1321]" name="womens_dress" duration-ms="35610" started-at="2021-12-28T22:22:08 IST" finished-at="2021-12-28T22:22:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- womens_dress -->
+        <test-method status="PASS" signature="sign_out()[pri:4, instance:com.testng_features.Report@458c1321]" name="sign_out" duration-ms="33501" started-at="2021-12-28T22:22:43 IST" finished-at="2021-12-28T22:23:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign_out -->
+      </class> <!-- com.testng_features.Report -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
